@@ -1,3 +1,10 @@
+//
+//  CalculateViewController.swift
+//  BMI Calculator
+//
+//  Created by Christian Martinez on 9/12/26.
+//  Copyright © 2026 Angela Yu. All rights reserved.
+//
 
 import UIKit
 
