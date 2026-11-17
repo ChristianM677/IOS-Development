@@ -5,7 +5,6 @@ These are a couple of apps I made while learning and following a course on IOS D
 - BMI Calculator
 - ByteCoin
 - Clima
-- Destini
 - Dice Game
 - EggTimer
 - Hacker News
@@ -24,9 +23,5 @@ This is a simple app in which theirs a spinning wheel that includes different wo
 ## Clima
 
 This app is a weather app that catches the real time weather data using an API website called OpenWeather. Its pretty straightforward where you can search for a city and it will give you the weather with its icon. 
-
-## Destini
-
-This is a fun interactive app which is a choose your own adventure story that you follow along and depending on the option you choose, the story will change and will result on your options or actions chosen.
 
 
